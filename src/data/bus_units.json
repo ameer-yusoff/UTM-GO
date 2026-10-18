@@ -1,0 +1,1301 @@
+{
+  "A1": {
+    "busNumber": "A1",
+    "route": "Route A",
+    "description": "KP to CP (JALAN AMAL) (KP - CP - JLN AMAL - KP)",
+    "effectiveDate": "6/10/2025",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KP (U7)": {
+        "morning": [
+          "07:30",
+          "08:00",
+          "08:30",
+          "09:00",
+          "09:30",
+          "10:00"
+        ],
+        "afternoon": [
+          "12:00",
+          "12:40",
+          "13:20",
+          "14:00",
+          "14:40"
+        ],
+        "afternoonFridayNoService": [
+          "12:40",
+          "13:20"
+        ],
+        "evening": [
+          "16:50",
+          "17:30",
+          "18:10",
+          "19:45",
+          "20:15"
+        ]
+      },
+      "FROM CENTER POINT (CP)": {
+        "morning": [
+          "07:45",
+          "08:15",
+          "08:45",
+          "09:15",
+          "09:45",
+          "10:15"
+        ],
+        "afternoon": [
+          "12:20",
+          "13:00",
+          "13:40",
+          "14:20",
+          "15:00"
+        ],
+        "afternoonFridayNoService": [
+          "13:00",
+          "13:40"
+        ],
+        "evening": [
+          "16:30",
+          "17:10",
+          "17:50",
+          "20:00",
+          "22:00",
+          "23:00"
+        ]
+      }
+    }
+  },
+  "B1": {
+    "busNumber": "B1",
+    "route": "Route B",
+    "description": "KP - K9/10 TO CLUSTER (KP - K9/10 - T02 - T08 - K9/10 - KP)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KP": {
+        "morning": [
+          "07:00",
+          "07:30",
+          "08:00",
+          "08:30",
+          "09:00",
+          "09:30"
+        ],
+        "afternoon": [
+          "11:35",
+          "12:15",
+          "12:55",
+          "13:35",
+          "14:15"
+        ],
+        "afternoonFridayNoService": [
+          "12:55",
+          "13:35"
+        ],
+        "evening": [
+          "16:20",
+          "17:00",
+          "17:40"
+        ]
+      },
+      "FROM CLUSTER (T02)": {
+        "morning": [
+          "07:15",
+          "07:45",
+          "08:15",
+          "08:45",
+          "09:15",
+          "09:45"
+        ],
+        "afternoon": [
+          "11:15",
+          "11:55",
+          "12:35",
+          "13:15",
+          "13:55",
+          "14:35"
+        ],
+        "afternoonFridayNoService": [
+          "13:15",
+          "13:55"
+        ],
+        "evening": [
+          "16:00",
+          "16:40",
+          "17:20",
+          "18:00"
+        ]
+      }
+    }
+  },
+  "B2": {
+    "busNumber": "B2",
+    "route": "Route B",
+    "description": "KP - K9/10 TO CLUSTER (KP - K9/10 - T02 - T08 - K9/10 - KP)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KP": {
+        "morning": [
+          "07:10",
+          "07:40",
+          "08:10",
+          "08:40",
+          "09:10",
+          "09:40"
+        ],
+        "afternoon": [
+          "11:45",
+          "12:25",
+          "13:05",
+          "13:45",
+          "14:25"
+        ],
+        "afternoonFridayNoService": [
+          "13:05",
+          "13:45"
+        ],
+        "evening": [
+          "16:30",
+          "17:10",
+          "17:50"
+        ]
+      },
+      "FROM CLUSTER (T02)": {
+        "morning": [
+          "07:25",
+          "07:55",
+          "08:25",
+          "08:55",
+          "09:25",
+          "09:55"
+        ],
+        "afternoon": [
+          "11:25",
+          "12:05",
+          "12:45",
+          "13:25",
+          "14:05",
+          "14:45"
+        ],
+        "afternoonFridayNoService": [
+          "13:25"
+        ],
+        "evening": [
+          "16:10",
+          "16:50",
+          "17:30",
+          "18:10"
+        ]
+      }
+    }
+  },
+  "B3": {
+    "busNumber": "B3",
+    "route": "Route B",
+    "description": "KP - K9/10 TO CLUSTER (KP - K9/10 - T02 - T08 - K9/10 - KP)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KP": {
+        "morning": [
+          "07:20",
+          "07:50",
+          "08:20",
+          "08:50",
+          "09:20",
+          "09:50"
+        ],
+        "afternoon": [
+          "12:00",
+          "12:40",
+          "13:20",
+          "14:00",
+          "14:40"
+        ],
+        "afternoonFridayNoService": [
+          "12:40",
+          "13:20"
+        ],
+        "evening": [
+          "16:45",
+          "17:25",
+          "18:05"
+        ]
+      },
+      "FROM CLUSTER (T02)": {
+        "morning": [
+          "07:35",
+          "08:05",
+          "08:35",
+          "09:05",
+          "09:35",
+          "10:05"
+        ],
+        "afternoon": [
+          "11:40",
+          "12:20",
+          "13:00",
+          "13:40",
+          "14:20",
+          "15:00"
+        ],
+        "afternoonFridayNoService": [
+          "13:40"
+        ],
+        "evening": [
+          "16:25",
+          "17:05",
+          "17:45",
+          "18:25"
+        ]
+      }
+    }
+  },
+  "C1": {
+    "busNumber": "C1",
+    "route": "Route C",
+    "description": "KOLEJ 9/10 TO LINGKARAN ILMU (K9/10 - KTC - CP - JLN AMAL - KTC - K9/10)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM K9/10": {
+        "morning": [
+          "07:00",
+          "07:30",
+          "08:00",
+          "08:30",
+          "09:00",
+          "09:30"
+        ],
+        "afternoon": [
+          "11:35",
+          "12:15",
+          "12:55",
+          "13:35",
+          "14:15"
+        ],
+        "afternoonFridayNoService": [
+          "12:55",
+          "13:35"
+        ],
+        "evening": [
+          "16:20",
+          "17:00",
+          "17:40",
+          "18:20"
+        ]
+      },
+      "FROM CENTER POINT (CP)": {
+        "morning": [
+          "07:15",
+          "07:45",
+          "08:15",
+          "08:45",
+          "09:15",
+          "09:45"
+        ],
+        "afternoon": [
+          "11:15",
+          "11:55",
+          "12:35",
+          "13:15",
+          "13:55",
+          "14:35"
+        ],
+        "evening": [
+          "16:00",
+          "16:40",
+          "17:20",
+          "18:00",
+          "18:40"
+        ]
+      }
+    }
+  },
+  "C2": {
+    "busNumber": "C2",
+    "route": "Route C",
+    "description": "KOLEJ 9/10 TO LINGKARAN ILMU (K9/10 - KTC - CP - JLN AMAL - KTC - K9/10)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM K9/10": {
+        "morning": [
+          "07:10",
+          "07:40",
+          "08:10",
+          "08:40",
+          "09:10",
+          "09:40"
+        ],
+        "afternoon": [
+          "11:45",
+          "12:25",
+          "13:05",
+          "13:45",
+          "14:25"
+        ],
+        "afternoonFridayNoService": [
+          "13:05",
+          "13:45"
+        ],
+        "evening": [
+          "16:30",
+          "17:10",
+          "17:50",
+          "19:45",
+          "20:15"
+        ]
+      },
+      "FROM CENTER POINT (CP)": {
+        "morning": [
+          "07:25",
+          "07:55",
+          "08:25",
+          "08:55",
+          "09:25",
+          "09:55"
+        ],
+        "afternoon": [
+          "11:25",
+          "12:05",
+          "12:45",
+          "13:25",
+          "14:05",
+          "14:45"
+        ],
+        "evening": [
+          "16:10",
+          "16:50",
+          "17:30",
+          "20:00",
+          "22:00",
+          "23:00"
+        ]
+      }
+    }
+  },
+  "C3": {
+    "busNumber": "C3",
+    "route": "Route C",
+    "description": "KOLEJ 9/10 TO LINGKARAN ILMU (K9/10 - KTC - CP - JLN AMAL - KTC - K9/10)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM K9/10": {
+        "morning": [
+          "07:20",
+          "07:50",
+          "08:20",
+          "08:50",
+          "09:20",
+          "09:50"
+        ],
+        "afternoon": [
+          "12:00",
+          "12:40",
+          "13:20",
+          "14:00",
+          "14:40"
+        ],
+        "afternoonFridayNoService": [
+          "12:40",
+          "13:20"
+        ],
+        "evening": [
+          "16:45",
+          "17:25",
+          "18:05",
+          "18:40"
+        ]
+      },
+      "FROM CENTER POINT (CP)": {
+        "morning": [
+          "07:35",
+          "08:05",
+          "08:35",
+          "09:05",
+          "09:35",
+          "10:05"
+        ],
+        "afternoon": [
+          "11:40",
+          "12:20",
+          "13:00",
+          "13:40",
+          "14:20",
+          "15:00"
+        ],
+        "evening": [
+          "16:25",
+          "17:05",
+          "17:45",
+          "18:25",
+          "19:00"
+        ]
+      }
+    }
+  },
+  "D1": {
+    "busNumber": "D1",
+    "route": "Route D",
+    "description": "CP to FKT (n29) (CP - N24 - FKT(n29) - P19 - CP)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM Centre Point (CP)": {
+        "morning": [
+          "07:15",
+          "07:45",
+          "08:15",
+          "08:45",
+          "09:15",
+          "09:45"
+        ],
+        "afternoon": [
+          "11:45",
+          "12:15",
+          "12:45",
+          "13:45",
+          "14:15"
+        ],
+        "afternoonFridayNoService": [
+          "12:45",
+          "13:45"
+        ],
+        "evening": [
+          "16:15",
+          "16:45",
+          "17:15",
+          "17:45"
+        ]
+      },
+      "FROM FKT (n29)": {
+        "morning": [
+          "07:30",
+          "08:00",
+          "08:30",
+          "09:00",
+          "09:30",
+          "10:00"
+        ],
+        "afternoon": [
+          "11:30",
+          "12:00",
+          "12:30",
+          "13:00",
+          "14:00",
+          "14:30"
+        ],
+        "evening": [
+          "16:00",
+          "16:30",
+          "17:00",
+          "17:30",
+          "18:00"
+        ]
+      }
+    }
+  },
+  "E1": {
+    "busNumber": "E1",
+    "route": "Route E(N24)",
+    "description": "KDOJ/ KLG/ KDSE TO CLUSTER (T02-T08) (VIA: CP - N24 - KTC)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KDOJ": {
+        "morning": [
+          "07:00",
+          "08:00",
+          "09:00"
+        ],
+        "afternoon": [
+          "11:00",
+          "12:00",
+          "13:00",
+          "14:00"
+        ],
+        "afternoonFridayNoService": [
+          "13:00"
+        ],
+        "evening": [
+          "16:30",
+          "17:30"
+        ]
+      },
+      "FROM CLUSTER (T02)": {
+        "morning": [
+          "07:30",
+          "08:30",
+          "09:30"
+        ],
+        "afternoon": [
+          "11:30",
+          "12:30",
+          "13:30",
+          "14:30"
+        ],
+        "afternoonFridayNoService": [
+          "13:30"
+        ],
+        "evening": [
+          "16:00",
+          "17:00",
+          "18:00"
+        ]
+      }
+    }
+  },
+  "E2": {
+    "busNumber": "E2",
+    "route": "Route E(JA)",
+    "description": "KDOJ/ KLG/ KDSE TO CLUSTER (T02-T08) (VIA: CP - D05(JLN AMAL) - KTC)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KDOJ": {
+        "morning": [
+          "07:10",
+          "08:10",
+          "09:10"
+        ],
+        "afternoon": [
+          "11:15",
+          "12:15",
+          "13:15",
+          "14:15"
+        ],
+        "afternoonFridayNoService": [
+          "13:15"
+        ],
+        "evening": [
+          "16:45",
+          "17:45"
+        ]
+      },
+      "FROM CLUSTER (T02)": {
+        "morning": [
+          "07:40",
+          "08:40",
+          "09:40"
+        ],
+        "afternoon": [
+          "11:45",
+          "12:45",
+          "13:45",
+          "14:45"
+        ],
+        "afternoonFridayNoService": [
+          "13:45"
+        ],
+        "evening": [
+          "16:15",
+          "17:15",
+          "18:15"
+        ]
+      }
+    }
+  },
+  "E3": {
+    "busNumber": "E3",
+    "route": "Route E(N24)",
+    "description": "KDOJ/ KLG/ KDSE TO CLUSTER (T02-T08) (VIA: CP - N24 - KTC)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KDOJ": {
+        "morning": [
+          "07:20",
+          "08:20",
+          "09:20"
+        ],
+        "afternoon": [
+          "11:30",
+          "12:30",
+          "13:30",
+          "14:30"
+        ],
+        "afternoonFridayNoService": [
+          "13:30"
+        ],
+        "evening": [
+          "17:00",
+          "18:00"
+        ]
+      },
+      "FROM CLUSTER (T02)": {
+        "morning": [
+          "07:50",
+          "08:50",
+          "09:50"
+        ],
+        "afternoon": [
+          "12:00",
+          "13:00",
+          "14:00",
+          "15:00"
+        ],
+        "evening": [
+          "16:30",
+          "17:30",
+          "18:30"
+        ]
+      }
+    }
+  },
+  "E4": {
+    "busNumber": "E4",
+    "route": "Route E(JA)",
+    "description": "KDOJ/ KLG/ KDSE TO CLUSTER (T02-T08) (VIA: CP - D05 (JLN AMAL) - KTC)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KDOJ": {
+        "morning": [
+          "07:30",
+          "08:30",
+          "09:30"
+        ],
+        "afternoon": [
+          "11:45",
+          "12:45",
+          "13:45",
+          "14:45"
+        ],
+        "afternoonFridayNoService": [
+          "13:45"
+        ],
+        "evening": [
+          "17:15",
+          "18:15"
+        ]
+      },
+      "FROM CLUSTER (T02)": {
+        "morning": [
+          "08:00",
+          "09:00",
+          "10:00"
+        ],
+        "afternoon": [
+          "12:15",
+          "13:15",
+          "14:15",
+          "15:15"
+        ],
+        "evening": [
+          "16:45",
+          "17:45",
+          "18:45"
+        ]
+      }
+    }
+  },
+  "E5": {
+    "busNumber": "E5",
+    "route": "Route E(N24)",
+    "description": "KDOJ TO CLUSTER (T02-T08) (VIA: CP - N24 - KTC)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KDOJ": {
+        "morning": [
+          "07:40",
+          "08:40",
+          "10:00",
+          "11:00"
+        ],
+        "afternoon": [],
+        "evening": [
+          "15:15",
+          "16:15",
+          "17:30"
+        ]
+      },
+      "FROM CLUSTER (T02 - T08)": {
+        "morning": [
+          "08:10",
+          "09:10",
+          "10:30",
+          "11:30"
+        ],
+        "afternoon": [],
+        "evening": [
+          "15:45",
+          "17:00",
+          "18:00"
+        ]
+      }
+    }
+  },
+  "E6": {
+    "busNumber": "E6",
+    "route": "Route E(JA)",
+    "description": "KDOJ TO CLUSTER (T02-T08) (VIA: CP - D05 (JLN AMAL) - KTC) & Night CP (FABU)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KDOJ": {
+        "morning": [
+          "07:50",
+          "08:50",
+          "10:30"
+        ],
+        "afternoon": [],
+        "evening": [
+          "15:00",
+          "16:00",
+          "17:30"
+        ],
+        "night": [
+          "19:45",
+          "20:15"
+        ]
+      },
+      "FROM CLUSTER (T02 - T08)": {
+        "morning": [
+          "08:20",
+          "09:20",
+          "10:00",
+          "11:00"
+        ],
+        "afternoon": [],
+        "evening": [
+          "15:30",
+          "17:00",
+          "18:00"
+        ],
+        "night": [
+          "20:00",
+          "22:00",
+          "23:00"
+        ]
+      }
+    }
+  },
+  "F1": {
+    "busNumber": "F1",
+    "route": "Route F",
+    "description": "KTR TO LINGKARAN ILMU (KTR-KTHO-KTDI-JLN AMAL-CP-KTR)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KTR(K01)": {
+        "morning": [
+          "07:05",
+          "07:35",
+          "08:05",
+          "08:35",
+          "09:05",
+          "09:35"
+        ],
+        "afternoon": [
+          "11:35",
+          "12:15",
+          "12:55",
+          "13:35",
+          "14:15"
+        ],
+        "afternoonFridayNoService": [
+          "12:55",
+          "13:35"
+        ],
+        "evening": [
+          "16:25",
+          "17:05",
+          "17:45",
+          "18:25"
+        ]
+      },
+      "FROM FKE (P19a)": {
+        "morning": [
+          "07:20",
+          "07:50",
+          "08:20",
+          "08:50",
+          "09:20",
+          "09:50"
+        ],
+        "afternoon": [
+          "11:15",
+          "11:55",
+          "12:35",
+          "13:15",
+          "13:55",
+          "14:35"
+        ],
+        "afternoonFridayNoService": [
+          "13:15",
+          "13:55"
+        ],
+        "evening": [
+          "16:05",
+          "16:45",
+          "17:25",
+          "18:05",
+          "18:45"
+        ]
+      }
+    }
+  },
+  "F2": {
+    "busNumber": "F2",
+    "route": "Route F",
+    "description": "KTR TO LINGKARAN ILMU (KTR-KTHO-KTDI-JLN AMAL-CP-KTR) & Night Service",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KTR(K01)": {
+        "morning": [
+          "07:15",
+          "07:45",
+          "08:15",
+          "08:45",
+          "09:15",
+          "09:45"
+        ],
+        "afternoon": [
+          "11:45",
+          "12:25",
+          "13:05",
+          "13:45",
+          "14:25"
+        ],
+        "afternoonFridayNoService": [
+          "13:05",
+          "13:45"
+        ],
+        "evening": [
+          "16:35",
+          "17:15",
+          "17:55",
+          "19:45",
+          "20:15"
+        ]
+      },
+      "FROM FKE (P19a)": {
+        "morning": [
+          "07:30",
+          "08:00",
+          "08:30",
+          "09:00",
+          "09:30",
+          "10:00"
+        ],
+        "afternoon": [
+          "11:25",
+          "12:05",
+          "12:45",
+          "13:25",
+          "14:05",
+          "14:45"
+        ],
+        "evening": [
+          "16:15",
+          "16:55",
+          "17:35",
+          "20:00",
+          "22:00",
+          "23:00"
+        ]
+      }
+    }
+  },
+  "G1": {
+    "busNumber": "G1",
+    "route": "Route G",
+    "description": "KTR/KTHO/KTDI TO FKT (VIA: N24 - FKT(n29) - P19 - CP)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KTR(K01)": {
+        "morning": [
+          "07:00",
+          "07:30",
+          "08:00",
+          "08:30",
+          "09:00",
+          "09:30"
+        ],
+        "afternoon": [
+          "11:40",
+          "12:20",
+          "13:00",
+          "13:40",
+          "14:20"
+        ],
+        "afternoonFridayNoService": [
+          "13:00",
+          "13:40"
+        ],
+        "evening": [
+          "16:20",
+          "17:00",
+          "17:40",
+          "18:20"
+        ]
+      },
+      "FROM FKT (N29)": {
+        "morning": [
+          "07:15",
+          "07:45",
+          "08:15",
+          "08:45",
+          "09:15",
+          "09:45"
+        ],
+        "afternoon": [
+          "11:20",
+          "12:00",
+          "12:40",
+          "13:20",
+          "14:00",
+          "14:40"
+        ],
+        "evening": [
+          "16:00",
+          "16:40",
+          "17:20",
+          "18:00",
+          "18:40"
+        ]
+      }
+    }
+  },
+  "G2": {
+    "busNumber": "G2",
+    "route": "Route G",
+    "description": "KTR/KTHO/KTDI TO FKT (VIA: N24 - FKT(n29) - P19 - CP)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM KTR(K01)": {
+        "morning": [
+          "07:15",
+          "07:45",
+          "08:15",
+          "08:45",
+          "09:15",
+          "09:45"
+        ],
+        "afternoon": [
+          "11:50",
+          "12:30",
+          "13:10",
+          "13:50",
+          "14:30"
+        ],
+        "afternoonFridayNoService": [
+          "13:10",
+          "13:50"
+        ],
+        "evening": [
+          "16:30",
+          "17:10",
+          "17:50",
+          "18:30"
+        ]
+      },
+      "FROM FKT (N29)": {
+        "morning": [
+          "07:30",
+          "08:00",
+          "08:30",
+          "09:00",
+          "09:30",
+          "10:00"
+        ],
+        "afternoon": [
+          "11:30",
+          "12:10",
+          "12:50",
+          "13:30",
+          "14:10",
+          "14:50"
+        ],
+        "evening": [
+          "16:10",
+          "16:50",
+          "17:30",
+          "18:10",
+          "18:50"
+        ]
+      }
+    }
+  },
+  "H1": {
+    "busNumber": "H1",
+    "route": "Route H",
+    "description": "CP to V01 (TMN U) (CP - JLN AMAL - V01 - CP)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKDAY",
+    "days": [
+      "monday",
+      "tuesday",
+      "wednesday",
+      "thursday",
+      "friday"
+    ],
+    "directions": {
+      "FROM CP": {
+        "morning": [
+          "07:15",
+          "07:45",
+          "08:15",
+          "08:45",
+          "09:15",
+          "09:45"
+        ],
+        "afternoon": [
+          "11:20",
+          "12:00",
+          "12:40",
+          "13:20",
+          "14:00"
+        ],
+        "afternoonFridayNoService": [
+          "12:40",
+          "13:20"
+        ],
+        "evening": [
+          "16:00",
+          "16:40",
+          "17:20",
+          "18:00"
+        ]
+      },
+      "FROM V01 (TMN U)": {
+        "morning": [
+          "07:30",
+          "08:00",
+          "08:30",
+          "09:00",
+          "09:30",
+          "10:00"
+        ],
+        "afternoon": [
+          "11:40",
+          "12:20",
+          "13:00",
+          "13:40",
+          "14:20"
+        ],
+        "evening": [
+          "16:20",
+          "17:00",
+          "17:40",
+          "18:20"
+        ]
+      }
+    }
+  },
+  "E1_WEEKEND": {
+    "busNumber": "E1 (Weekend)",
+    "route": "Route E(N24)",
+    "description": "KDOJ/KLG/KDSE TO K9/10 (VIA: CP - N24 - KTC)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKEND",
+    "days": [
+      "saturday",
+      "sunday"
+    ],
+    "directions": {
+      "FROM KDOJ": {
+        "morning": [
+          "07:30",
+          "09:00"
+        ],
+        "afternoon": [
+          "11:00",
+          "13:00"
+        ],
+        "evening": [
+          "15:00",
+          "17:00"
+        ]
+      },
+      "FROM KOLEJ 9/10": {
+        "morning": [
+          "08:00",
+          "09:30"
+        ],
+        "afternoon": [
+          "11:30",
+          "13:30"
+        ],
+        "evening": [
+          "15:30",
+          "17:30"
+        ]
+      }
+    }
+  },
+  "E2_WEEKEND": {
+    "busNumber": "E2 (Weekend)",
+    "route": "Route E(N24)",
+    "description": "KDOJ/KLG/KDSE TO KOLEJ 9/10 (VIA: CP - N24 - KTC)",
+    "effectiveDate": "12/10/2026",
+    "serviceType": "WEEKEND",
+    "days": [
+      "saturday",
+      "sunday"
+    ],
+    "directions": {
+      "FROM KDOJ": {
+        "morning": [
+          "08:00",
+          "10:00"
+        ],
+        "afternoon": [
+          "12:00",
+          "14:00"
+        ],
+        "evening": [
+          "16:00",
+          "18:00"
+        ]
+      },
+      "FROM KOLEJ 9/10": {
+        "morning": [
+          "08:30",
+          "10:30"
+        ],
+        "afternoon": [
+          "12:30",
+          "14:30"
+        ],
+        "evening": [
+          "16:30",
+          "18:30"
+        ]
+      }
+    }
+  }
+}
